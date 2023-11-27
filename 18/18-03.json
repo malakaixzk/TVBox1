@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt"
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3piZWZpbmUvaXB0di9tYWluL2lwdHYudHh0"
                     ]
                 }
             ]
