@@ -1,19 +1,15 @@
 {
     "spider": "https://malakaixzk.github.io/TVBox1/jar/18.jar",
     "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3piZWZpbmUvaXB0di9tYWluL2lwdHYudHh0"
-                    ]
-                }
-            ]
-        }
-    ],
+  "lives":[{
+    "name":"live",
+    "type":0,
+    "url":"./18live.txt",
+    "playerType":1,
+    "ua":"okhttp/3.12.13",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+  }],
     "rules": [
         {
             "host": "*",
